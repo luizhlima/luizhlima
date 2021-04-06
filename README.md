@@ -7,11 +7,9 @@
 - 💬 Ask me about anything.
 - 📫 How to contact me: luiz.limah22@gmail.com
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlima&theme=tokyonight)](https://github.com/luizhlima/github-readme-stats)
 
-
-[![luizhlima github stats](https://github-readme-stats.vercel.app/api?username=luizhlima&show_icons=true&theme=tokyonight)
+![luizhlima github stats](https://github-readme-stats.vercel.app/api?username=luizhlima&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <h2>Technologies I use</h2>
